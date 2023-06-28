@@ -1,4 +1,4 @@
-## PA3-Fractals
+# PA3-Fractals
 Welcome to the PA3-Fractals repository! This repository contains a fractal system that allows you to explore and visualize various fractal patterns. 
 It was developed as part of the Programming Assignment for the Advanced Programming Course (CIIC4010) at UPRM.
 
